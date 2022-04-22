@@ -3,17 +3,18 @@ This project is based on the very known feature of Auto-completion which is used
 
 In order to complete my project, I’ve to use the following data structures:
 
-Tries
-Vectors (Using STL)
-File Handling
-Arrays (Dynamic Allocation)
-Stack
+1.  Tries
+2.  Vectors (Using STL)
+3.  File Haandling
+4.  Arrays (Dynamic Allocation)
+5.  Stack
+
 Core functions and classes:
 
-TrieNode class
-Trie class
-gotoxy()
-insertWord() (Function overloading used)
-possibleWord()
-findWord() (Function overloading used)
-autoComplete()
+1.  TrieNode class
+2.  Trie class
+3.  gotoxy()
+4.  insertWord() (Function overloading used)
+5.  possibleWord()
+6.  findWord() (Function overloading used)
+7.  autoComplete()
