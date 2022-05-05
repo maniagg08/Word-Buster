@@ -5,16 +5,13 @@ In order to complete my project, I’ve to use the following data structures:
 
 1.  Tries
 2.  Vectors (Using STL)
-3.  File Haandling
-4.  Arrays (Dynamic Allocation)
-5.  Stack
+3.  Arrays (Dynamic Allocation)
+4.  Stack
 
 Core functions and classes:
 
 1.  TrieNode class
 2.  Trie class
-3.  gotoxy()
-4.  insertWord() (Function overloading used)
-5.  possibleWord()
-6.  findWord() (Function overloading used)
-7.  autoComplete()
+3.  insertWord() (Function overloading used)
+4.  search() (Function overloading used)
+5.  autoComplete()
